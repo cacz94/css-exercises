@@ -1,0 +1,24 @@
+/* CLASSES */
+
+.odd-number{
+    color: black;
+    background-color:indianred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.biggerSize{
+    font-size: 24px;
+}
+
+/* IDs */
+
+#secondElement{
+    color: blue;
+    font-size: 36px;
+}
+
+#forthElement{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
